@@ -1,0 +1,13 @@
+body {
+	background-color: #e3e7ea;
+}
+h1{
+  font-family: futura, gotham, helvetica, sans-serif;
+    text-transform: uppercase;
+	font-size: 36pt;
+	letter-spacing: 6px;
+	text-align: center;
+	color: #ff4d00;
+    padding:100px 100px 100px 100px;
+    border: 60px solid #ffffff;
+}
